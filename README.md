@@ -1,7 +1,7 @@
 ## My profile
 
-<h1 align="center">Hi 👋, I'm Psychedelic</h1>
-<h3 align="center">Hello welcome to my profile</h3>
+<h1 align="center">Greetings, I'm Psychedelic</h1>
+<h3 align="center">Hello and welcome to my profile</h3>
 
 - 💬 Ask me about **Unity stuff**
 
