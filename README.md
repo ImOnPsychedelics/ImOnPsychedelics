@@ -1,6 +1,6 @@
 ## My profile
 
-![edzxawo4yzr71 (1) (1)](https://github.com/user-attachments/assets/ca2ca7a9-42e3-4608-918f-35f52cb3f1d7) ![Hyprland](https://camo.githubusercontent.com/b26609dc4c47f6b76b8667b9975456d05dc4c19f550c81fb7e6cd658781fc40a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3532373743333f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)
+![Hyprland](https://camo.githubusercontent.com/b26609dc4c47f6b76b8667b9975456d05dc4c19f550c81fb7e6cd658781fc40a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3532373743333f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)
 ![Logo](https://github.com/user-attachments/assets/aa31c97c-1980-465f-9207-a08c18ce1780)
 
 [![Psychedelic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImOnPsychedelics&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
