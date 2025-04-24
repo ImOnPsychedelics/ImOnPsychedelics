@@ -1,4 +1,6 @@
 ## README.md
+![nix-os fastfetch ascii](https://github.com/user-attachments/assets/5c079f37-3c3d-4bbd-afb7-414b0417ed31)
+
  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Logo](https://github.com/user-attachments/assets/aa31c97c-1980-465f-9207-a08c18ce1780)
