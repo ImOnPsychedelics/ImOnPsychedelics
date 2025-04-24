@@ -1,5 +1,7 @@
 ## README.md
 
+![image](https://github.com/user-attachments/assets/cf37a1a8-5efc-4f92-9c17-b8ca58a4fb41)
+
 
  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
