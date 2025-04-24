@@ -1,6 +1,6 @@
 ## README.md
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Hyprland](https://camo.githubusercontent.com/b26609dc4c47f6b76b8667b9975456d05dc4c19f550c81fb7e6cd658781fc40a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3532373743333f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Hyprland](https://camo.githubusercontent.com/b26609dc4c47f6b76b8667b9975456d05dc4c19f550c81fb7e6cd658781fc40a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3532373743333f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Logo](https://github.com/user-attachments/assets/aa31c97c-1980-465f-9207-a08c18ce1780)
 
