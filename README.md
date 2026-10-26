@@ -3,8 +3,7 @@
 
 <img width="2192" height="368" alt="image" src="https://github.com/user-attachments/assets/2d101f8a-7a0b-41c3-bb32-0b921f088930" />
 
-
-<img width="2422" height="368" alt="ascii-art-text" src="https://github.com/user-attachments/assets/061fa5ff-7e89-4d99-bf07-e49e62f754ee" />
+<img width="1976" height="368" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/69c46503-3d0f-48bd-b85f-6695d44431b3" />
 
 ![Logo](https://github.com/user-attachments/assets/aa31c97c-1980-465f-9207-a08c18ce1780)
 
