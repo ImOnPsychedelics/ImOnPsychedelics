@@ -1,7 +1,8 @@
 ## README.md
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99c7d3cb-41d6-498e-ba39-3901e7ca1124" />
+<img width="2192" height="368" alt="image" src="https://github.com/user-attachments/assets/2d101f8a-7a0b-41c3-bb32-0b921f088930" />
+
 
 <img width="2422" height="368" alt="ascii-art-text" src="https://github.com/user-attachments/assets/061fa5ff-7e89-4d99-bf07-e49e62f754ee" />
 
